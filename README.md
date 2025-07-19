@@ -90,7 +90,7 @@ customer-churn-dashboard/
 ## 📤 Deployment 
 
 You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud):
-
+🔗 [Link](https://churn-prediction-dashboard-p4bg9seq2sfnwvwfzpiovv.streamlit.app/)
 * Make sure your repo includes `requirements.txt`
 
 ---
@@ -100,7 +100,7 @@ You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud):
 **Shreya H S**
 👩‍🔬 ML & Cloud Engineering Enthusiast
 🌐 [LinkedIn](https://www.linkedin.com/in/shreya-h-s/) | ✨ [GitHub](https://github.com/shrehs) | 
-Do Checkout: [Medium](https://medium.com/@shreyahs2004/predicting-customer-churn-with-streamlit-and-lightgbm-an-end-to-end-ml-project-2fb212c6d3db)
+📝 Checkout: [Medium](https://medium.com/@shreyahs2004/predicting-customer-churn-with-streamlit-and-lightgbm-an-end-to-end-ml-project-2fb212c6d3db)
 ---
 
 ## 📄 License
