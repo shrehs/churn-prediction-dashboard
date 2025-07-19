@@ -99,7 +99,7 @@ You can deploy this app using [Streamlit Cloud](https://streamlit.io/cloud):
 
 **Shreya H S**
 👩‍🔬 ML & Cloud Engineering Enthusiast
-🌐 [LinkedIn](https://www.linkedin.com/in/shreyahs/) | ✨ [GitHub](https://github.com/shreyahs)
+🌐 [LinkedIn](https://www.linkedin.com/in/shreyahs/) | ✨ [GitHub](https://github.com/shreyahs) | 
 Do Checkout: [Medium](https://medium.com/@shreyahs2004/predicting-customer-churn-with-streamlit-and-lightgbm-an-end-to-end-ml-project-2fb212c6d3db)
 ---
 
