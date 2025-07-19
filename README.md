@@ -1,4 +1,3 @@
-```markdown
 # 📊 Customer Churn Prediction Dashboard
 
 A Streamlit-powered dashboard that predicts customer churn using a trained LightGBM model and preprocessing pipeline. Upload customer data in CSV format and get instant predictions with probabilities.
